@@ -1,0 +1,26 @@
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" id="WebApp_ID" version="3.0">
+
+  <display-name>Archetype Created Web Application</display-name>
+  
+  <welcome-file-list>
+    <!--欢迎界面-->
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+
+  <!--<listener>-->
+    <!--<listener-class></listener-class>-->
+  <!--</listener>-->
+  <!--定义一个servlet-->
+  <!--<servlet>-->
+    <!--&lt;!&ndash;此处的servlet-name是唯一的&ndash;&gt;-->
+    <!--<servlet-name>firstServlet</servlet-name>-->
+    <!--&lt;!&ndash;定义servlet的类的全限定名[类的全称,包名.类名]&ndash;&gt;-->
+    <!--<servlet-class>tech.aistar.controller.FirstServlet</servlet-class>-->
+  <!--</servlet>-->
+  <!---->
+  <!--&lt;!&ndash;定义servlet的映射&ndash;&gt;-->
+  <!--<servlet-mapping>-->
+    <!--<servlet-name>firstServlet</servlet-name>-->
+    <!--<url-pattern>/first</url-pattern>-->
+  <!--</servlet-mapping>-->
+</web-app>
